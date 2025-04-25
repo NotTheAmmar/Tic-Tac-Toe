@@ -1,0 +1,25 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.square {
+  border: solid 1px black;
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
